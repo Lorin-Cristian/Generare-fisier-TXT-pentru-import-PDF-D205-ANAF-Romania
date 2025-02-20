@@ -7,7 +7,7 @@ Generare txt pentru Formularul D205 – Declaratie privind impozitul retinut la 
 - [Dependente](#dependente)
 - [Cum se foloseste](#cum-se-foloseste)
 - [Rulare script](#rulare-script)
-- [Erori Cunoscute / Sfaturi](#erori-eunoscute-si-sfaturi)
+- [Erori Cunoscute Si Sfaturi](#erori-cunoscute-si-sfaturi)
 
 ## Scop
 Scopul proiectului este a converti un fisier de tip Excel intr-un format de tip Txt care poate fi importat in PDF-ul inteligent ANAF D205_XML_2024_120225.pdf pentru completarea raportului sau generare fisierului XML
